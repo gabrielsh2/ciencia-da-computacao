@@ -1,0 +1,1704 @@
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 1 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .82809     .00792     .55395     1.1009        550    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        550    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        550    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        550    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        550    
+Alunos.TotalTime                            .82809     .00792     .55395     1.1009        550    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        565    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        593    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.037     (Corr)     .00000     68.000     54.000    
+Esteira.NumberBusy                          .94021     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94021     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.051     (Corr)     .00000     52.000     43.000    
+Ginásio.NumberBusy                          14.045     (Corr)     .00000     28.000     10.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             604.00    
+Alunos.NumberOut                            550.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .94021    
+Aparelho.NumberSeized                       593.00    
+Ginásio.NumberSeized                        565.00    
+System.NumberOut                            550.00    
+
+Iniciando replicação 2 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 2 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83065     .00528     .52790     1.1453        534    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        534    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        534    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        534    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        534    
+Alunos.TotalTime                            .83065     .00528     .52790     1.1453        534    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         38    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        563    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        582    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  47.227     (Corr)     .00000     68.000     67.000    
+Esteira.NumberBusy                          .92131     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .92131     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         32.204     (Corr)     .00000     49.000     48.000    
+Ginásio.NumberBusy                          14.102     1.2415     .00000     26.000     18.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             601.00    
+Alunos.NumberOut                            534.00    
+Esteira.NumberSeized                        38.000    
+Esteira.ScheduledUtilization                .92131    
+Aparelho.NumberSeized                       582.00    
+Ginásio.NumberSeized                        563.00    
+System.NumberOut                            534.00    
+
+Iniciando replicação 3 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 3 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83012     (Corr)     .55445     1.1596        554    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        554    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        554    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        554    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        554    
+Alunos.TotalTime                            .83012     (Corr)     .55445     1.1596        554    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         38    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        574    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        596    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.424     (Corr)     .00000     64.000     58.000    
+Esteira.NumberBusy                          .93367     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93367     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.585     (Corr)     .00000     48.000     42.000    
+Ginásio.NumberBusy                          13.905     1.0026     .00000     24.000     15.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             612.00    
+Alunos.NumberOut                            554.00    
+Esteira.NumberSeized                        38.000    
+Esteira.ScheduledUtilization                .93367    
+Aparelho.NumberSeized                       596.00    
+Ginásio.NumberSeized                        574.00    
+System.NumberOut                            554.00    
+
+Iniciando replicação 4 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 4 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .82262     .00823     .56345     1.1287        563    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        563    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        563    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        563    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        563    
+Alunos.TotalTime                            .82262     .00823     .56345     1.1287        563    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         37    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        582    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        605    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.718     (Corr)     .00000     67.000     56.000    
+Esteira.NumberBusy                          .94328     (Insuf)    .00000     1.0000     .00000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94328     (Insuf)    .00000     1.0000     .00000    
+Aparelho.NumberBusy                         33.782     (Corr)     .00000     55.000     42.000    
+Ginásio.NumberBusy                          13.992     (Corr)     .00000     26.000     14.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             619.00    
+Alunos.NumberOut                            563.00    
+Esteira.NumberSeized                        37.000    
+Esteira.ScheduledUtilization                .94328    
+Aparelho.NumberSeized                       605.00    
+Ginásio.NumberSeized                        582.00    
+System.NumberOut                            563.00    
+
+Iniciando replicação 5 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 5 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .82986     .00857     .52295     1.1173        561    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        561    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        561    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        561    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        561    
+Alunos.TotalTime                            .82986     .00857     .52295     1.1173        561    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         36    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        581    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        605    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  49.028     (Corr)     .00000     69.000     56.000    
+Esteira.NumberBusy                          .94439     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94439     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.873     (Corr)     .00000     49.000     44.000    
+Ginásio.NumberBusy                          14.210     1.0362     .00000     26.000     11.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             617.00    
+Alunos.NumberOut                            561.00    
+Esteira.NumberSeized                        36.000    
+Esteira.ScheduledUtilization                .94439    
+Aparelho.NumberSeized                       605.00    
+Ginásio.NumberSeized                        581.00    
+System.NumberOut                            561.00    
+
+Iniciando replicação 6 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 6 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .82496     .00630     .57627     1.0748        626    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        626    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        626    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        626    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        626    
+Alunos.TotalTime                            .82496     .00630     .57627     1.0748        626    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         40    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        633    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        665    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  53.829     (Corr)     .00000     70.000     47.000    
+Esteira.NumberBusy                          .94776     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94776     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         37.432     (Corr)     .00000     54.000     39.000    
+Ginásio.NumberBusy                          15.449     1.2007     .00000     30.000     7.0000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             673.00    
+Alunos.NumberOut                            626.00    
+Esteira.NumberSeized                        40.000    
+Esteira.ScheduledUtilization                .94776    
+Aparelho.NumberSeized                       665.00    
+Ginásio.NumberSeized                        633.00    
+System.NumberOut                            626.00    
+
+Iniciando replicação 7 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 7 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83469     .00793     .51345     1.0847        521    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        521    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        521    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        521    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        521    
+Alunos.TotalTime                            .83469     .00793     .51345     1.0847        521    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        538    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        559    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  46.031     (Corr)     .00000     60.000     56.000    
+Esteira.NumberBusy                          .94527     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94527     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         31.772     (Corr)     .00000     44.000     38.000    
+Ginásio.NumberBusy                          13.313     (Corr)     .00000     23.000     17.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             577.00    
+Alunos.NumberOut                            521.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .94527    
+Aparelho.NumberSeized                       559.00    
+Ginásio.NumberSeized                        538.00    
+System.NumberOut                            521.00    
+
+Iniciando replicação 8 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 8 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83517     .00839     .44264     1.1579        518    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        518    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        518    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        518    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        518    
+Alunos.TotalTime                            .83517     .00839     .44264     1.1579        518    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         35    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        539    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        560    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  45.531     (Corr)     .00000     65.000     56.000    
+Esteira.NumberBusy                          .93380     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93380     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         31.062     (Corr)     .00000     46.000     42.000    
+Ginásio.NumberBusy                          13.535     (Corr)     .00000     30.000     13.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             574.00    
+Alunos.NumberOut                            518.00    
+Esteira.NumberSeized                        35.000    
+Esteira.ScheduledUtilization                .93380    
+Aparelho.NumberSeized                       560.00    
+Ginásio.NumberSeized                        539.00    
+System.NumberOut                            518.00    
+
+Iniciando replicação 9 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 9 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83092     .00982     .51614     1.1277        580    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        580    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        580    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        580    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        580    
+Alunos.TotalTime                            .83092     .00982     .51614     1.1277        580    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         37    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        577    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        600    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  49.521     (Corr)     .00000     65.000     34.000    
+Esteira.NumberBusy                          .94130     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94130     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         34.302     (Corr)     .00000     46.000     20.000    
+Ginásio.NumberBusy                          14.277     .95143     .00000     25.000     13.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             614.00    
+Alunos.NumberOut                            580.00    
+Esteira.NumberSeized                        37.000    
+Esteira.ScheduledUtilization                .94130    
+Aparelho.NumberSeized                       600.00    
+Ginásio.NumberSeized                        577.00    
+System.NumberOut                            580.00    
+
+Iniciando replicação 10 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 10 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .82791     .00966     .53050     1.1178        542    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        542    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        542    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        542    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        542    
+Alunos.TotalTime                            .82791     .00966     .53050     1.1178        542    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         37    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        547    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        577    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  46.822     (Corr)     .00000     72.000     42.000    
+Esteira.NumberBusy                          .93487     (Insuf)    .00000     1.0000     .00000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93487     (Insuf)    .00000     1.0000     .00000    
+Aparelho.NumberBusy                         32.200     (Corr)     .00000     53.000     35.000    
+Ginásio.NumberBusy                          13.687     (Corr)     .00000     27.000     7.0000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             584.00    
+Alunos.NumberOut                            542.00    
+Esteira.NumberSeized                        37.000    
+Esteira.ScheduledUtilization                .93487    
+Aparelho.NumberSeized                       577.00    
+Ginásio.NumberSeized                        547.00    
+System.NumberOut                            542.00    
+
+Iniciando replicação 11 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 11 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83642     .00932     .55667     1.1044        564    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        564    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        564    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        564    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        564    
+Alunos.TotalTime                            .83642     .00932     .55667     1.1044        564    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         38    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        582    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        599    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  49.276     (Corr)     .00000     68.000     56.000    
+Esteira.NumberBusy                          .94020     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94020     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.947     (Corr)     .00000     50.000     35.000    
+Ginásio.NumberBusy                          14.388     (Corr)     .00000     28.000     20.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             620.00    
+Alunos.NumberOut                            564.00    
+Esteira.NumberSeized                        38.000    
+Esteira.ScheduledUtilization                .94020    
+Aparelho.NumberSeized                       599.00    
+Ginásio.NumberSeized                        582.00    
+System.NumberOut                            564.00    
+
+Iniciando replicação 12 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 12 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .82925     .00660     .53800     1.1063        584    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        584    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        584    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        584    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        584    
+Alunos.TotalTime                            .82925     .00660     .53800     1.1063        584    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         40    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        584    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        614    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  50.309     (Corr)     .00000     71.000     40.000    
+Esteira.NumberBusy                          .95131     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .95131     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         34.965     (Corr)     .00000     53.000     30.000    
+Ginásio.NumberBusy                          14.392     (Corr)     .00000     27.000     9.0000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             624.00    
+Alunos.NumberOut                            584.00    
+Esteira.NumberSeized                        40.000    
+Esteira.ScheduledUtilization                .95131    
+Aparelho.NumberSeized                       614.00    
+Ginásio.NumberSeized                        584.00    
+System.NumberOut                            584.00    
+
+Iniciando replicação 13 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 13 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83566     .00829     .47106     1.1406        564    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        564    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        564    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        564    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        564    
+Alunos.TotalTime                            .83566     .00829     .47106     1.1406        564    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         37    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        572    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        593    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.999     (Corr)     .00000     73.000     45.000    
+Esteira.NumberBusy                          .93654     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93654     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.882     (Corr)     .00000     55.000     29.000    
+Ginásio.NumberBusy                          14.179     (Corr)     .00000     29.000     15.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             609.00    
+Alunos.NumberOut                            564.00    
+Esteira.NumberSeized                        37.000    
+Esteira.ScheduledUtilization                .93654    
+Aparelho.NumberSeized                       593.00    
+Ginásio.NumberSeized                        572.00    
+System.NumberOut                            564.00    
+
+Iniciando replicação 14 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 14 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83583     .00702     .49779     1.1374        529    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        529    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        529    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        529    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        529    
+Alunos.TotalTime                            .83583     .00702     .49779     1.1374        529    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         38    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        541    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        566    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  46.455     (Corr)     .00000     62.000     50.000    
+Esteira.NumberBusy                          .93098     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93098     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         31.857     (Corr)     .00000     48.000     37.000    
+Ginásio.NumberBusy                          13.667     1.0635     .00000     27.000     12.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             579.00    
+Alunos.NumberOut                            529.00    
+Esteira.NumberSeized                        38.000    
+Esteira.ScheduledUtilization                .93098    
+Aparelho.NumberSeized                       566.00    
+Ginásio.NumberSeized                        541.00    
+System.NumberOut                            529.00    
+
+Iniciando replicação 15 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 15 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83567     .00898     .55286     1.1297        550    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        550    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        550    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        550    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        550    
+Alunos.TotalTime                            .83567     .00898     .55286     1.1297        550    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         38    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        569    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        596    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.619     (Corr)     .00000     72.000     57.000    
+Esteira.NumberBusy                          .92907     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .92907     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.556     (Corr)     .00000     56.000     46.000    
+Ginásio.NumberBusy                          14.134     (Corr)     .00000     28.000     10.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             607.00    
+Alunos.NumberOut                            550.00    
+Esteira.NumberSeized                        38.000    
+Esteira.ScheduledUtilization                .92907    
+Aparelho.NumberSeized                       596.00    
+Ginásio.NumberSeized                        569.00    
+System.NumberOut                            550.00    
+
+Iniciando replicação 16 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 16 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83905     .00559     .57589     1.1237        558    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        558    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        558    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        558    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        558    
+Alunos.TotalTime                            .83905     .00559     .57589     1.1237        558    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        570    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        593    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.785     (Corr)     .00000     74.000     51.000    
+Esteira.NumberBusy                          .91131     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .91131     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.765     (Corr)     .00000     56.000     35.000    
+Ginásio.NumberBusy                          14.108     (Corr)     .00000     26.000     15.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             609.00    
+Alunos.NumberOut                            558.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .91131    
+Aparelho.NumberSeized                       593.00    
+Ginásio.NumberSeized                        570.00    
+System.NumberOut                            558.00    
+
+Iniciando replicação 17 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 17 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83574     .00922     .53300     1.1062        539    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        539    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        539    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        539    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        539    
+Alunos.TotalTime                            .83574     .00922     .53300     1.1062        539    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         36    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        543    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        568    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  46.877     (Corr)     .00000     69.000     40.000    
+Esteira.NumberBusy                          .93907     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93907     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         32.368     (Corr)     .00000     52.000     29.000    
+Ginásio.NumberBusy                          13.569     (Corr)     .00000     25.000     10.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             579.00    
+Alunos.NumberOut                            539.00    
+Esteira.NumberSeized                        36.000    
+Esteira.ScheduledUtilization                .93907    
+Aparelho.NumberSeized                       568.00    
+Ginásio.NumberSeized                        543.00    
+System.NumberOut                            539.00    
+
+Iniciando replicação 18 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 18 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .84007     .00876     .57245     1.0845        564    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        564    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        564    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        564    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        564    
+Alunos.TotalTime                            .84007     .00876     .57245     1.0845        564    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         37    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        569    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        593    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  49.084     (Corr)     .00000     70.000     42.000    
+Esteira.NumberBusy                          .94850     (Insuf)    .00000     1.0000     .00000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94850     (Insuf)    .00000     1.0000     .00000    
+Aparelho.NumberBusy                         33.939     (Corr)     .00000     52.000     29.000    
+Ginásio.NumberBusy                          14.196     (Corr)     .00000     28.000     13.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             606.00    
+Alunos.NumberOut                            564.00    
+Esteira.NumberSeized                        37.000    
+Esteira.ScheduledUtilization                .94850    
+Aparelho.NumberSeized                       593.00    
+Ginásio.NumberSeized                        569.00    
+System.NumberOut                            564.00    
+
+Iniciando replicação 19 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 19 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83559     .01005     .54929     1.1168        566    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        566    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        566    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        566    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        566    
+Alunos.TotalTime                            .83559     .01005     .54929     1.1168        566    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        576    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        603    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  49.333     (Corr)     .00000     69.000     49.000    
+Esteira.NumberBusy                          .92318     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .92318     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         34.063     (Corr)     .00000     52.000     37.000    
+Ginásio.NumberBusy                          14.346     .91214     .00000     27.000     11.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             615.00    
+Alunos.NumberOut                            566.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .92318    
+Aparelho.NumberSeized                       603.00    
+Ginásio.NumberSeized                        576.00    
+System.NumberOut                            566.00    
+
+Iniciando replicação 20 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 20 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83515     .00794     .55070     1.2158        589    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        589    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        589    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        589    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        589    
+Alunos.TotalTime                            .83515     .00794     .55070     1.2158        589    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         38    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        595    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        619    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  51.040     (Corr)     .00000     70.000     44.000    
+Esteira.NumberBusy                          .94142     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94142     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         35.241     (Corr)     .00000     54.000     30.000    
+Ginásio.NumberBusy                          14.857     (Corr)     .00000     26.000     13.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             633.00    
+Alunos.NumberOut                            589.00    
+Esteira.NumberSeized                        38.000    
+Esteira.ScheduledUtilization                .94142    
+Aparelho.NumberSeized                       619.00    
+Ginásio.NumberSeized                        595.00    
+System.NumberOut                            589.00    
+
+Iniciando replicação 21 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 21 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83429     .01022     .47645     1.1120        550    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        550    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        550    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        550    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        550    
+Alunos.TotalTime                            .83429     .01022     .47645     1.1120        550    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         41    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        562    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        588    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  47.962     (Corr)     .00000     63.000     53.000    
+Esteira.NumberBusy                          .94831     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94831     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.280     (Corr)     .00000     47.000     38.000    
+Ginásio.NumberBusy                          13.734     1.0022     .00000     25.000     14.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             603.00    
+Alunos.NumberOut                            550.00    
+Esteira.NumberSeized                        41.000    
+Esteira.ScheduledUtilization                .94831    
+Aparelho.NumberSeized                       588.00    
+Ginásio.NumberSeized                        562.00    
+System.NumberOut                            550.00    
+
+Iniciando replicação 22 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 22 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .84114     .00872     .56258     1.1338        586    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        586    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        586    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        586    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        586    
+Alunos.TotalTime                            .84114     .00872     .56258     1.1338        586    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         38    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        607    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        626    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  51.740     (Corr)     .00000     70.000     59.000    
+Esteira.NumberBusy                          .94396     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94396     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         35.760     (Corr)     .00000     53.000     40.000    
+Ginásio.NumberBusy                          15.035     1.0152     .00000     27.000     18.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             645.00    
+Alunos.NumberOut                            586.00    
+Esteira.NumberSeized                        38.000    
+Esteira.ScheduledUtilization                .94396    
+Aparelho.NumberSeized                       626.00    
+Ginásio.NumberSeized                        607.00    
+System.NumberOut                            586.00    
+
+Iniciando replicação 23 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 23 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83559     .00881     .51714     1.1298        521    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        521    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        521    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        521    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        521    
+Alunos.TotalTime                            .83559     .00881     .51714     1.1298        521    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        531    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        553    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  45.450     (Corr)     .00000     62.000     49.000    
+Esteira.NumberBusy                          .94733     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94733     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         31.291     (Corr)     .00000     48.000     32.000    
+Ginásio.NumberBusy                          13.211     .93807     .00000     26.000     16.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             570.00    
+Alunos.NumberOut                            521.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .94733    
+Aparelho.NumberSeized                       553.00    
+Ginásio.NumberSeized                        531.00    
+System.NumberOut                            521.00    
+
+Iniciando replicação 24 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 24 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83849     .00906     .56606     1.1287        556    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        556    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        556    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        556    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        556    
+Alunos.TotalTime                            .83849     .00906     .56606     1.1287        556    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         40    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        585    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        607    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  49.529     (Corr)     .00000     71.000     69.000    
+Esteira.NumberBusy                          .94362     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94362     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         34.085     (Corr)     .00000     52.000     51.000    
+Ginásio.NumberBusy                          14.500     (Corr)     .00000     27.000     17.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             625.00    
+Alunos.NumberOut                            556.00    
+Esteira.NumberSeized                        40.000    
+Esteira.ScheduledUtilization                .94362    
+Aparelho.NumberSeized                       607.00    
+Ginásio.NumberSeized                        585.00    
+System.NumberOut                            556.00    
+
+Iniciando replicação 25 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 25 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .82022     .00738     .50621     1.1176        589    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        589    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        589    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        589    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        589    
+Alunos.TotalTime                            .82022     .00738     .50621     1.1176        589    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         40    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        595    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        621    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  50.255     (Corr)     .00000     82.000     46.000    
+Esteira.NumberBusy                          .93368     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93368     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         34.897     (Corr)     .00000     59.000     32.000    
+Ginásio.NumberBusy                          14.424     (Corr)     .00000     32.000     13.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             635.00    
+Alunos.NumberOut                            589.00    
+Esteira.NumberSeized                        40.000    
+Esteira.ScheduledUtilization                .93368    
+Aparelho.NumberSeized                       621.00    
+Ginásio.NumberSeized                        595.00    
+System.NumberOut                            589.00    
+
+Iniciando replicação 26 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 26 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83119     .00706     .56119     1.1113        569    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        569    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        569    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        569    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        569    
+Alunos.TotalTime                            .83119     .00706     .56119     1.1113        569    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        575    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        601    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  49.271     (Corr)     .00000     77.000     45.000    
+Esteira.NumberBusy                          .95034     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .95034     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.978     (Corr)     .00000     55.000     32.000    
+Ginásio.NumberBusy                          14.342     (Corr)     .00000     27.000     12.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             614.00    
+Alunos.NumberOut                            569.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .95034    
+Aparelho.NumberSeized                       601.00    
+Ginásio.NumberSeized                        575.00    
+System.NumberOut                            569.00    
+
+Iniciando replicação 27 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 27 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83282     .01060     .54762     1.1020        543    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        543    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        543    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        543    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        543    
+Alunos.TotalTime                            .83282     .01060     .54762     1.1020        543    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         37    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        553    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        576    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  46.978     (Corr)     .00000     69.000     47.000    
+Esteira.NumberBusy                          .94125     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94125     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         32.359     (Corr)     .00000     52.000     33.000    
+Ginásio.NumberBusy                          13.677     1.0520     .00000     26.000     13.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             590.00    
+Alunos.NumberOut                            543.00    
+Esteira.NumberSeized                        37.000    
+Esteira.ScheduledUtilization                .94125    
+Aparelho.NumberSeized                       576.00    
+Ginásio.NumberSeized                        553.00    
+System.NumberOut                            543.00    
+
+Iniciando replicação 28 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 28 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83719     .00661     .55325     1.0997        526    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        526    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        526    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        526    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        526    
+Alunos.TotalTime                            .83719     .00661     .55325     1.0997        526    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        541    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        561    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  46.045     (Corr)     .00000     66.000     54.000    
+Esteira.NumberBusy                          .93653     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93653     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         31.850     (Corr)     .00000     53.000     35.000    
+Ginásio.NumberBusy                          13.258     1.0476     .00000     26.000     18.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             580.00    
+Alunos.NumberOut                            526.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .93653    
+Aparelho.NumberSeized                       561.00    
+Ginásio.NumberSeized                        541.00    
+System.NumberOut                            526.00    
+
+Iniciando replicação 29 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 29 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83041     .00629     .48452     1.1122        559    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        559    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        559    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        559    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        559    
+Alunos.TotalTime                            .83041     .00629     .48452     1.1122        559    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         39    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        565    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        590    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.276     (Corr)     .00000     71.000     45.000    
+Esteira.NumberBusy                          .93170     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .93170     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.500     (Corr)     .00000     56.000     31.000    
+Ginásio.NumberBusy                          13.844     (Corr)     .00000     29.000     13.000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             604.00    
+Alunos.NumberOut                            559.00    
+Esteira.NumberSeized                        39.000    
+Esteira.ScheduledUtilization                .93170    
+Aparelho.NumberSeized                       590.00    
+Ginásio.NumberSeized                        565.00    
+System.NumberOut                            559.00    
+
+Iniciando replicação 30 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 30 de 30
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Alunos.VATime                               .83465     .00945     .56288     1.0986        549    
+Alunos.NVATime                              .00000     .00000     .00000     .00000        549    
+Alunos.WaitTime                             .00000     .00000     .00000     .00000        549    
+Alunos.TranTime                             .00000     .00000     .00000     .00000        549    
+Alunos.OtherTime                            .00000     .00000     .00000     .00000        549    
+Alunos.TotalTime                            .83465     .00945     .56288     1.0986        549    
+Aquecimento Esteira.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         41    
+Aquecimento Ginásio.Queue.WaitingTime       .00000     .00000     .00000     .00000        555    
+Musculacao.Queue.WaitingTime                .00000     .00000     .00000     .00000        587    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Alunos.WIP                                  48.040     (Corr)     .00000     68.000     47.000    
+Esteira.NumberBusy                          .94615     (Insuf)    .00000     1.0000     1.0000    
+Esteira.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Esteira.Utilization                         .94615     (Insuf)    .00000     1.0000     1.0000    
+Aparelho.NumberBusy                         33.309     (Corr)     .00000     48.000     38.000    
+Ginásio.NumberBusy                          13.784     (Corr)     .00000     26.000     8.0000    
+Aquecimento Esteira.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Aquecimento Ginásio.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Musculacao.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Alunos.NumberIn                             596.00    
+Alunos.NumberOut                            549.00    
+Esteira.NumberSeized                        41.000    
+Esteira.ScheduledUtilization                .94615    
+Aparelho.NumberSeized                       587.00    
+Ginásio.NumberSeized                        555.00    
+System.NumberOut                            549.00    
+
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                              Resumo de resultados para 30 Replicações
+
+Projeto: Unnamed Project                                             Data da execução :12/ 9/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 9/2023
+
+
+                                             RESULTADOS
+
+Identificador                                 Média    Meia-largura Mínima    Maximo # de Replicações
+___________________________________________________________________________________________________
+
+Alunos.NumberIn                             607.26     8.5320     570.00     673.00     30
+Alunos.NumberOut                            556.80     8.9566     518.00     626.00     30
+Esteira.NumberSeized                        38.300     .54724     35.000     41.000     30
+Esteira.ScheduledUtilization                .93868     .00344     .91131     .95131     30
+Aparelho.NumberSeized                       593.20     8.7377     553.00     665.00     30
+Ginásio.NumberSeized                        568.96     8.3891     531.00     633.00     30
+System.NumberOut                            556.80     8.9566     518.00     626.00     30
+
+Tempo executando a simulação: 0.53 minutos.
+Simulação completada.

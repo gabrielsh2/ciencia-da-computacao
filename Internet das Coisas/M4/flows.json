@@ -1,0 +1,402 @@
+[
+    {
+        "id": "0a378525189bfe60",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3242cc66f1ce83e9",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.hivemq.com",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "f280a0a372fe3882",
+        "type": "ui_group",
+        "d": true,
+        "name": "Temperature",
+        "tab": "",
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0694921ebdbdf9d2",
+        "type": "ui_group",
+        "d": true,
+        "name": "Humidity",
+        "tab": "",
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "780c5a8715b79c9e",
+        "type": "ui_group",
+        "d": true,
+        "name": "Led",
+        "tab": "",
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b76e8545a4c7912d",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "80e8592f5e7d015f",
+        "type": "ui_tab",
+        "name": "Dashboard",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "51514604f398645d",
+        "type": "ui_group",
+        "name": "Humidity",
+        "tab": "80e8592f5e7d015f",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c7b8766b8ff5ca8c",
+        "type": "ui_spacer",
+        "z": "0a378525189bfe60",
+        "name": "spacer",
+        "group": "51514604f398645d",
+        "order": 1,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "5b52fa8f970e276f",
+        "type": "ui_group",
+        "name": "Temperature",
+        "tab": "80e8592f5e7d015f",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "56b2eaefe24f049f",
+        "type": "ui_spacer",
+        "z": "0a378525189bfe60",
+        "name": "spacer",
+        "group": "5b52fa8f970e276f",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "86f9ef2c67b70a2b",
+        "type": "ui_group",
+        "name": "Led",
+        "tab": "80e8592f5e7d015f",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9c843d20546a1bd8",
+        "type": "ui_spacer",
+        "z": "0a378525189bfe60",
+        "name": "spacer",
+        "group": "86f9ef2c67b70a2b",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8682490eeedefd6a",
+        "type": "mqtt in",
+        "z": "0a378525189bfe60",
+        "name": "",
+        "topic": "topic_sensor_humiditygabriel",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "3242cc66f1ce83e9",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 360,
+        "y": 200,
+        "wires": [
+            [
+                "5518ea9126d6938e",
+                "1b1ff12304998334"
+            ]
+        ]
+    },
+    {
+        "id": "7a0c4b48df94dffd",
+        "type": "mqtt in",
+        "z": "0a378525189bfe60",
+        "name": "",
+        "topic": "topic_on_off_ledgabriel",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "3242cc66f1ce83e9",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 340,
+        "y": 280,
+        "wires": [
+            [
+                "5518ea9126d6938e",
+                "598d663c1f3950d1"
+            ]
+        ]
+    },
+    {
+        "id": "b0a5af4b9593f15b",
+        "type": "mqtt in",
+        "z": "0a378525189bfe60",
+        "name": "",
+        "topic": "topic_sensor_temperaturegabriel",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "3242cc66f1ce83e9",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 370,
+        "y": 360,
+        "wires": [
+            [
+                "5518ea9126d6938e",
+                "7a0394fa633586b5"
+            ]
+        ]
+    },
+    {
+        "id": "5518ea9126d6938e",
+        "type": "debug",
+        "z": "0a378525189bfe60",
+        "name": "debug 1",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 740,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "1b1ff12304998334",
+        "type": "ui_gauge",
+        "z": "0a378525189bfe60",
+        "name": "",
+        "group": "51514604f398645d",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "humidity",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 760,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "598d663c1f3950d1",
+        "type": "ui_text",
+        "z": "0a378525189bfe60",
+        "group": "86f9ef2c67b70a2b",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Led: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 890,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "7a0394fa633586b5",
+        "type": "ui_gauge",
+        "z": "0a378525189bfe60",
+        "name": "",
+        "group": "5b52fa8f970e276f",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "temperature",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "-100",
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 730,
+        "y": 360,
+        "wires": []
+    }
+]

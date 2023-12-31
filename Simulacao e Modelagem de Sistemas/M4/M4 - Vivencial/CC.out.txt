@@ -1,0 +1,1674 @@
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 1 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               6.2388     (Insuf)    .00780     36.380        130    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        130    
+Pacote.WaitTime                             37.553     (Insuf)    .00000     91.721        130    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        130    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        130    
+Pacote.TotalTime                            43.791     (Insuf)    .68691     93.718        130    
+Etiquetar com Equipamento.Queue.WaitingTim  43.701     (Insuf)    .00000     91.721        113    
+Etiquetador Manual.Queue.WaitingTime        .97977     (Insuf)    .00000     12.181         18    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  8.9214     (Insuf)    .00000     21.000     16.000    
+Trabalhador.NumberBusy                      .17733     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .17733     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .95307     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .95307     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  7.7665     (Insuf)    .00000     20.000     15.000    
+Etiquetador Manual.Queue.NumberInQueue      .02449     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             146.00    
+Pacote.NumberOut                            130.00    
+Trabalhador.NumberSeized                    18.000    
+Trabalhador.ScheduledUtilization            .17733    
+Equipamento.NumberSeized                    113.00    
+Equipamento.ScheduledUtilization            .95307    
+System.NumberOut                            130.00    
+
+Iniciando replicação 2 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 2 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.7590     (Insuf)    .05506     24.899        138    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        138    
+Pacote.WaitTime                             20.111     (Insuf)    .00000     65.299        138    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        138    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        138    
+Pacote.TotalTime                            25.870     (Insuf)    .33578     68.555        138    
+Etiquetar com Equipamento.Queue.WaitingTim  23.053     (Insuf)    .00000     65.299        121    
+Etiquetador Manual.Queue.WaitingTime        1.3522     (Insuf)    .00000     11.426         18    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  5.2489     (Insuf)    .00000     14.000     7.0000    
+Trabalhador.NumberBusy                      .19407     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .19407     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .92483     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .92483     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  4.0962     (Insuf)    .00000     13.000     6.0000    
+Etiquetador Manual.Queue.NumberInQueue      .03381     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             145.00    
+Pacote.NumberOut                            138.00    
+Trabalhador.NumberSeized                    18.000    
+Trabalhador.ScheduledUtilization            .19407    
+Equipamento.NumberSeized                    121.00    
+Equipamento.ScheduledUtilization            .92483    
+System.NumberOut                            138.00    
+
+Iniciando replicação 3 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 3 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.8045     (Insuf)    .06495     34.023        130    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        130    
+Pacote.WaitTime                             28.614     (Insuf)    .00000     98.440        130    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        130    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        130    
+Pacote.TotalTime                            34.419     (Insuf)    .26993     107.98        130    
+Etiquetar com Equipamento.Queue.WaitingTim  31.669     (Insuf)    .00000     98.440        120    
+Etiquetador Manual.Queue.WaitingTime        .02702     (Insuf)    .00000     .29722         11    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  7.1439     (Insuf)    .00000     21.000     13.000    
+Trabalhador.NumberBusy                      .12007     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .12007     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .93496     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .93496     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  6.0884     (Insuf)    .00000     20.000     12.000    
+Etiquetador Manual.Queue.NumberInQueue       4.1280E-4 (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             143.00    
+Pacote.NumberOut                            130.00    
+Trabalhador.NumberSeized                    11.000    
+Trabalhador.ScheduledUtilization            .12007    
+Equipamento.NumberSeized                    120.00    
+Equipamento.ScheduledUtilization            .93496    
+System.NumberOut                            130.00    
+
+Iniciando replicação 4 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 4 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.1868     (Insuf)    .02378     25.576        151    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        151    
+Pacote.WaitTime                             25.774     (Insuf)    .00000     58.527        151    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        151    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        151    
+Pacote.TotalTime                            30.961     (Insuf)    1.5525     64.567        151    
+Etiquetar com Equipamento.Queue.WaitingTim  27.602     (Insuf)    .00000     58.527        141    
+Etiquetador Manual.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000         11    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  6.5016     (Insuf)    .00000     16.000     3.0000    
+Trabalhador.NumberBusy                      .11813     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .11813     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .97345     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .97345     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  5.4101     (Insuf)    .00000     15.000     2.0000    
+Etiquetador Manual.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             154.00    
+Pacote.NumberOut                            151.00    
+Trabalhador.NumberSeized                    11.000    
+Trabalhador.ScheduledUtilization            .11813    
+Equipamento.NumberSeized                    141.00    
+Equipamento.ScheduledUtilization            .97345    
+System.NumberOut                            151.00    
+
+Iniciando replicação 5 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 5 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               4.8431     (Insuf)    .04015     35.251        135    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        135    
+Pacote.WaitTime                             7.0316     (Insuf)    .00000     37.726        135    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        135    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        135    
+Pacote.TotalTime                            11.874     (Insuf)    .06000     43.118        135    
+Etiquetar com Equipamento.Queue.WaitingTim  7.3833     (Insuf)    .00000     37.726        126    
+Etiquetador Manual.Queue.WaitingTime        5.2309     (Insuf)    .00000     26.872         10    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  2.5856     (Insuf)    .00000     13.000     13.000    
+Trabalhador.NumberBusy                      .12930     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .12930     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .78657     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .78657     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  1.5970     (Insuf)    .00000     12.000     12.000    
+Etiquetador Manual.Queue.NumberInQueue      .07265     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             148.00    
+Pacote.NumberOut                            135.00    
+Trabalhador.NumberSeized                    10.000    
+Trabalhador.ScheduledUtilization            .12930    
+Equipamento.NumberSeized                    126.00    
+Equipamento.ScheduledUtilization            .78657    
+System.NumberOut                            135.00    
+
+Iniciando replicação 6 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 6 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.6536     (Insuf)    .03785     32.763        132    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        132    
+Pacote.WaitTime                             27.102     (Insuf)    .00000     116.02        132    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        132    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        132    
+Pacote.TotalTime                            32.756     (Insuf)    .06380     138.56        132    
+Etiquetar com Equipamento.Queue.WaitingTim  31.591     (Insuf)    .00000     127.93        117    
+Etiquetador Manual.Queue.WaitingTime        .58131     (Insuf)    .00000     9.3009         16    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  8.9045     (Insuf)    .00000     28.000     27.000    
+Trabalhador.NumberBusy                      .13375     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .13375     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .90325     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .90325     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  7.8546     (Insuf)    .00000     27.000     26.000    
+Etiquetador Manual.Queue.NumberInQueue      .01292     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             159.00    
+Pacote.NumberOut                            132.00    
+Trabalhador.NumberSeized                    16.000    
+Trabalhador.ScheduledUtilization            .13375    
+Equipamento.NumberSeized                    117.00    
+Equipamento.ScheduledUtilization            .90325    
+System.NumberOut                            132.00    
+
+Iniciando replicação 7 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 7 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.7266     (Insuf)    .05612     24.931        121    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        121    
+Pacote.WaitTime                             26.654     (Insuf)    .00000     86.998        121    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        121    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        121    
+Pacote.TotalTime                            32.381     (Insuf)    .05612     96.104        121    
+Etiquetar com Equipamento.Queue.WaitingTim  29.222     (Insuf)    .00000     86.998        110    
+Etiquetador Manual.Queue.WaitingTime        .89334     (Insuf)    .00000     10.720         12    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  5.4457     (Insuf)    .00000     13.000     1.0000    
+Trabalhador.NumberBusy                      .08563     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .08563     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .88066     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .88066     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  4.4646     (Insuf)    .00000     12.000     .00000    
+Etiquetador Manual.Queue.NumberInQueue      .01489     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             122.00    
+Pacote.NumberOut                            121.00    
+Trabalhador.NumberSeized                    12.000    
+Trabalhador.ScheduledUtilization            .08563    
+Equipamento.NumberSeized                    110.00    
+Equipamento.ScheduledUtilization            .88066    
+System.NumberOut                            121.00    
+
+Iniciando replicação 8 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 8 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.7231     (Insuf)    .01189     40.210        119    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        119    
+Pacote.WaitTime                             19.079     (Insuf)    .00000     52.369        119    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        119    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        119    
+Pacote.TotalTime                            24.803     (Insuf)    .01189     60.311        119    
+Etiquetar com Equipamento.Queue.WaitingTim  21.509     (Insuf)    .00000     58.187        108    
+Etiquetador Manual.Queue.WaitingTime        .47286     (Insuf)    .00000     5.6743         12    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  4.5879     (Insuf)    .00000     14.000     11.000    
+Trabalhador.NumberBusy                      .06604     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .06604     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .88224     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .88224     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  3.6317     (Insuf)    .00000     12.000     10.000    
+Etiquetador Manual.Queue.NumberInQueue      .00788     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             130.00    
+Pacote.NumberOut                            119.00    
+Trabalhador.NumberSeized                    12.000    
+Trabalhador.ScheduledUtilization            .06604    
+Equipamento.NumberSeized                    108.00    
+Equipamento.ScheduledUtilization            .88224    
+System.NumberOut                            119.00    
+
+Iniciando replicação 9 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 9 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.1363     (Insuf)    .06226     24.705        138    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        138    
+Pacote.WaitTime                             20.384     (Insuf)    .00000     54.844        138    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        138    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        138    
+Pacote.TotalTime                            25.521     (Insuf)    .06226     57.744        138    
+Etiquetar com Equipamento.Queue.WaitingTim  22.621     (Insuf)    .00000     54.844        126    
+Etiquetador Manual.Queue.WaitingTime        .16774     (Insuf)    .00000     1.9088         13    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  5.1998     (Insuf)    .00000     13.000     10.000    
+Trabalhador.NumberBusy                      .11560     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .11560     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .87614     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .87614     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  4.2050     (Insuf)    .00000     11.000     9.0000    
+Etiquetador Manual.Queue.NumberInQueue      .00303     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             148.00    
+Pacote.NumberOut                            138.00    
+Trabalhador.NumberSeized                    13.000    
+Trabalhador.ScheduledUtilization            .11560    
+Equipamento.NumberSeized                    126.00    
+Equipamento.ScheduledUtilization            .87614    
+System.NumberOut                            138.00    
+
+Iniciando replicação 10 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 10 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.2886     (Insuf)    .03407     27.998        133    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        133    
+Pacote.WaitTime                             30.463     (Insuf)    .00000     71.299        133    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        133    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        133    
+Pacote.TotalTime                            35.751     (Insuf)    .06213     81.480        133    
+Etiquetar com Equipamento.Queue.WaitingTim  34.289     (Insuf)    .00000     71.299        120    
+Etiquetador Manual.Queue.WaitingTime        .11273     (Insuf)    .00000     1.5781         14    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  7.6460     (Insuf)    .00000     19.000     16.000    
+Trabalhador.NumberBusy                      .06646     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .06646     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .92318     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .92318     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  6.6542     (Insuf)    .00000     17.000     15.000    
+Etiquetador Manual.Queue.NumberInQueue      .00219     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             149.00    
+Pacote.NumberOut                            133.00    
+Trabalhador.NumberSeized                    14.000    
+Trabalhador.ScheduledUtilization            .06646    
+Equipamento.NumberSeized                    120.00    
+Equipamento.ScheduledUtilization            .92318    
+System.NumberOut                            133.00    
+
+Iniciando replicação 11 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 11 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               6.0089     (Insuf)    .01447     36.730        130    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        130    
+Pacote.WaitTime                             37.201     (Insuf)    .00000     159.21        130    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        130    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        130    
+Pacote.TotalTime                            43.210     (Insuf)    .80778     168.13        130    
+Etiquetar com Equipamento.Queue.WaitingTim  43.229     (Insuf)    .00000     159.21        115    
+Etiquetador Manual.Queue.WaitingTime        .64792     (Insuf)    .00000     10.366         16    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  11.122     (Insuf)    .00000     31.000     31.000    
+Trabalhador.NumberBusy                      .12266     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .12266     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .97936     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .97936     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  10.005     (Insuf)    .00000     30.000     30.000    
+Etiquetador Manual.Queue.NumberInQueue      .01440     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             161.00    
+Pacote.NumberOut                            130.00    
+Trabalhador.NumberSeized                    16.000    
+Trabalhador.ScheduledUtilization            .12266    
+Equipamento.NumberSeized                    115.00    
+Equipamento.ScheduledUtilization            .97936    
+System.NumberOut                            130.00    
+
+Iniciando replicação 12 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 12 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.7233     (Insuf)    .09292     32.646        140    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        140    
+Pacote.WaitTime                             67.749     (Insuf)    .00000     164.47        140    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        140    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        140    
+Pacote.TotalTime                            73.472     (Insuf)    .09543     165.41        140    
+Etiquetar com Equipamento.Queue.WaitingTim  78.971     (Insuf)    .00000     164.77        122    
+Etiquetador Manual.Queue.WaitingTime        .80029     (Insuf)    .00000     13.112         19    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  18.342     (Insuf)    .00000     39.000     35.000    
+Trabalhador.NumberBusy                      .12639     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .12639     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .98707     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .98707     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  17.208     (Insuf)    .00000     37.000     34.000    
+Etiquetador Manual.Queue.NumberInQueue      .02112     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             175.00    
+Pacote.NumberOut                            140.00    
+Trabalhador.NumberSeized                    19.000    
+Trabalhador.ScheduledUtilization            .12639    
+Equipamento.NumberSeized                    122.00    
+Equipamento.ScheduledUtilization            .98707    
+System.NumberOut                            140.00    
+
+Iniciando replicação 13 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 13 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.3874     (Insuf)    .04787     28.860        142    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        142    
+Pacote.WaitTime                             25.561     (Insuf)    .00000     70.141        142    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        142    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        142    
+Pacote.TotalTime                            30.948     (Insuf)    1.1709     72.646        142    
+Etiquetar com Equipamento.Queue.WaitingTim  27.807     (Insuf)    .00000     70.141        132    
+Etiquetador Manual.Queue.WaitingTime        1.3768     (Insuf)    .00000     15.145         11    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  6.6748     (Insuf)    .00000     16.000     12.000    
+Trabalhador.NumberBusy                      .11899     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .11899     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .95195     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .95195     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  5.5828     (Insuf)    .00000     15.000     11.000    
+Etiquetador Manual.Queue.NumberInQueue      .02104     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             154.00    
+Pacote.NumberOut                            142.00    
+Trabalhador.NumberSeized                    11.000    
+Trabalhador.ScheduledUtilization            .11899    
+Equipamento.NumberSeized                    132.00    
+Equipamento.ScheduledUtilization            .95195    
+System.NumberOut                            142.00    
+
+Iniciando replicação 14 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 14 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.0066     (Insuf)    .03938     19.287        132    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        132    
+Pacote.WaitTime                             11.878     (Insuf)    .00000     43.924        132    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        132    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        132    
+Pacote.TotalTime                            16.885     (Insuf)    .16003     47.634        132    
+Etiquetar com Equipamento.Queue.WaitingTim  13.431     (Insuf)    .00000     43.924        119    
+Etiquetador Manual.Queue.WaitingTime        .22243     (Insuf)    .00000     3.1140         14    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  3.3634     (Insuf)    .00000     13.000     12.000    
+Trabalhador.NumberBusy                      .10867     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .10867     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .81252     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .81252     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  2.4378     (Insuf)    .00000     12.000     11.000    
+Etiquetador Manual.Queue.NumberInQueue      .00433     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             144.00    
+Pacote.NumberOut                            132.00    
+Trabalhador.NumberSeized                    14.000    
+Trabalhador.ScheduledUtilization            .10867    
+Equipamento.NumberSeized                    119.00    
+Equipamento.ScheduledUtilization            .81252    
+System.NumberOut                            132.00    
+
+Iniciando replicação 15 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 15 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.4235     (Insuf)    .00371     43.741        129    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        129    
+Pacote.WaitTime                             21.335     (Insuf)    .00000     64.458        129    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        129    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        129    
+Pacote.TotalTime                            26.759     (Insuf)    .17254     68.656        129    
+Etiquetar com Equipamento.Queue.WaitingTim  23.360     (Insuf)    .00000     64.458        118    
+Etiquetador Manual.Queue.WaitingTime        .30303     (Insuf)    .00000     3.6363         12    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  4.8157     (Insuf)    .00000     13.000     3.0000    
+Trabalhador.NumberBusy                      .10576     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .10576     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .86819     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .86819     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  3.8367     (Insuf)    .00000     12.000     2.0000    
+Etiquetador Manual.Queue.NumberInQueue      .00505     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             132.00    
+Pacote.NumberOut                            129.00    
+Trabalhador.NumberSeized                    12.000    
+Trabalhador.ScheduledUtilization            .10576    
+Equipamento.NumberSeized                    118.00    
+Equipamento.ScheduledUtilization            .86819    
+System.NumberOut                            129.00    
+
+Iniciando replicação 16 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 16 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.4924     (Insuf)    .01228     28.041        136    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        136    
+Pacote.WaitTime                             18.096     (Insuf)    .00000     53.773        136    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        136    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        136    
+Pacote.TotalTime                            23.589     (Insuf)    .18945     54.621        136    
+Etiquetar com Equipamento.Queue.WaitingTim  20.297     (Insuf)    .00000     53.773        123    
+Etiquetador Manual.Queue.WaitingTime        .08608     (Insuf)    .00000     1.2051         14    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  4.6293     (Insuf)    .00000     11.000     4.0000    
+Trabalhador.NumberBusy                      .09286     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .09286     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .94689     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .94689     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  3.5879     (Insuf)    .00000     10.000     3.0000    
+Etiquetador Manual.Queue.NumberInQueue      .00167     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             140.00    
+Pacote.NumberOut                            136.00    
+Trabalhador.NumberSeized                    14.000    
+Trabalhador.ScheduledUtilization            .09286    
+Equipamento.NumberSeized                    123.00    
+Equipamento.ScheduledUtilization            .94689    
+System.NumberOut                            136.00    
+
+Iniciando replicação 17 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 17 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.9559     (Insuf)    .02017     24.454        125    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        125    
+Pacote.WaitTime                             52.131     (Insuf)    .00000     136.70        125    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        125    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        125    
+Pacote.TotalTime                            58.087     (Insuf)    .02017     140.50        125    
+Etiquetar com Equipamento.Queue.WaitingTim  58.434     (Insuf)    .00000     136.70        113    
+Etiquetador Manual.Queue.WaitingTime        .68746     (Insuf)    .00000     8.9369         13    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  11.636     (Insuf)    .00000     25.000     25.000    
+Trabalhador.NumberBusy                      .09177     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .09177     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .94684     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .94684     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  10.584     (Insuf)    .00000     24.000     24.000    
+Etiquetador Manual.Queue.NumberInQueue      .01241     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             150.00    
+Pacote.NumberOut                            125.00    
+Trabalhador.NumberSeized                    13.000    
+Trabalhador.ScheduledUtilization            .09177    
+Equipamento.NumberSeized                    113.00    
+Equipamento.ScheduledUtilization            .94684    
+System.NumberOut                            125.00    
+
+Iniciando replicação 18 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 18 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.3361     (Insuf)    .10634     34.986        140    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        140    
+Pacote.WaitTime                             34.019     (Insuf)    .00000     86.974        140    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        140    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        140    
+Pacote.TotalTime                            39.355     (Insuf)    .26128     91.543        140    
+Etiquetar com Equipamento.Queue.WaitingTim  36.356     (Insuf)    .00000     86.974        131    
+Etiquetador Manual.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000         10    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  7.6575     (Insuf)    .00000     15.000     1.0000    
+Trabalhador.NumberBusy                      .06533     (Insuf)    .00000     1.0000     1.0000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .06533     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberBusy                      .97731     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .97731     (Insuf)    .00000     1.0000     .00000    
+Etiquetar com Equipamento.Queue.NumberInQu  6.6149     (Insuf)    .00000     14.000     .00000    
+Etiquetador Manual.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             141.00    
+Pacote.NumberOut                            140.00    
+Trabalhador.NumberSeized                    10.000    
+Trabalhador.ScheduledUtilization            .06533    
+Equipamento.NumberSeized                    131.00    
+Equipamento.ScheduledUtilization            .97731    
+System.NumberOut                            140.00    
+
+Iniciando replicação 19 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 19 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.9142     (Insuf)    .01698     25.514        122    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        122    
+Pacote.WaitTime                             38.701     (Insuf)    .00000     107.54        122    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        122    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        122    
+Pacote.TotalTime                            44.616     (Insuf)    .29731     111.95        122    
+Etiquetar com Equipamento.Queue.WaitingTim  44.460     (Insuf)    .00000     107.54        107    
+Etiquetador Manual.Queue.WaitingTime        .24696     (Insuf)    .00000     4.1983         17    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  7.8393     (Insuf)    .00000     20.000     6.0000    
+Trabalhador.NumberBusy                      .13744     (Insuf)    .00000     1.0000     1.0000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .13744     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberBusy                      .88899     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .88899     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  6.8070     (Insuf)    .00000     19.000     4.0000    
+Etiquetador Manual.Queue.NumberInQueue      .00583     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             128.00    
+Pacote.NumberOut                            122.00    
+Trabalhador.NumberSeized                    17.000    
+Trabalhador.ScheduledUtilization            .13744    
+Equipamento.NumberSeized                    107.00    
+Equipamento.ScheduledUtilization            .88899    
+System.NumberOut                            122.00    
+
+Iniciando replicação 20 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 20 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.7381     (Insuf)    .08410     45.858        134    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        134    
+Pacote.WaitTime                             54.997     (Insuf)    .00000     99.245        134    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        134    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        134    
+Pacote.TotalTime                            60.735     (Insuf)    .49611     109.84        134    
+Etiquetar com Equipamento.Queue.WaitingTim  60.293     (Insuf)    .00000     99.245        123    
+Etiquetador Manual.Queue.WaitingTime        .02752     (Insuf)    .00000     .33018         12    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  11.623     (Insuf)    .00000     19.000     11.000    
+Trabalhador.NumberBusy                      .07369     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .07369     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .99743     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .99743     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  10.551     (Insuf)    .00000     18.000     10.000    
+Etiquetador Manual.Queue.NumberInQueue       4.5859E-4 (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             145.00    
+Pacote.NumberOut                            134.00    
+Trabalhador.NumberSeized                    12.000    
+Trabalhador.ScheduledUtilization            .07369    
+Equipamento.NumberSeized                    123.00    
+Equipamento.ScheduledUtilization            .99743    
+System.NumberOut                            134.00    
+
+Iniciando replicação 21 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 21 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.3674     (Insuf)    .00906     20.667        133    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        133    
+Pacote.WaitTime                             24.067     (Insuf)    .00000     71.185        133    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        133    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        133    
+Pacote.TotalTime                            29.435     (Insuf)    .00906     78.336        133    
+Etiquetar com Equipamento.Queue.WaitingTim  27.299     (Insuf)    .00000     71.185        118    
+Etiquetador Manual.Queue.WaitingTime        1.4145     (Insuf)    .00000     11.785         16    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  5.7447     (Insuf)    .00000     14.000     7.0000    
+Trabalhador.NumberBusy                      .16259     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .16259     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .84989     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .84989     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  4.7007     (Insuf)    .00000     13.000     6.0000    
+Etiquetador Manual.Queue.NumberInQueue      .03143     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             140.00    
+Pacote.NumberOut                            133.00    
+Trabalhador.NumberSeized                    16.000    
+Trabalhador.ScheduledUtilization            .16259    
+Equipamento.NumberSeized                    118.00    
+Equipamento.ScheduledUtilization            .84989    
+System.NumberOut                            133.00    
+
+Iniciando replicação 22 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 22 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               6.1083     (Insuf)    .02296     24.226        118    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        118    
+Pacote.WaitTime                             18.883     (Insuf)    .00000     75.364        118    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        118    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        118    
+Pacote.TotalTime                            24.992     (Insuf)    .02932     84.708        118    
+Etiquetar com Equipamento.Queue.WaitingTim  21.131     (Insuf)    .00000     75.364        108    
+Etiquetador Manual.Queue.WaitingTime        .46735     (Insuf)    .00000     5.0215         11    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  4.8985     (Insuf)    .00000     19.000     16.000    
+Trabalhador.NumberBusy                      .10127     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .10127     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .91025     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .91025     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  3.8799     (Insuf)    .00000     18.000     15.000    
+Etiquetador Manual.Queue.NumberInQueue      .00714     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             134.00    
+Pacote.NumberOut                            118.00    
+Trabalhador.NumberSeized                    11.000    
+Trabalhador.ScheduledUtilization            .10127    
+Equipamento.NumberSeized                    108.00    
+Equipamento.ScheduledUtilization            .91025    
+System.NumberOut                            118.00    
+
+Iniciando replicação 23 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 23 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               6.2512     (Insuf)    .00901     24.881        120    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        120    
+Pacote.WaitTime                             34.909     (Insuf)    .00000     114.14        120    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        120    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        120    
+Pacote.TotalTime                            41.160     (Insuf)    .03508     114.67        120    
+Etiquetar com Equipamento.Queue.WaitingTim  38.195     (Insuf)    .00000     114.14        112    
+Etiquetador Manual.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000          9    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  8.1542     (Insuf)    .00000     19.000     16.000    
+Trabalhador.NumberBusy                      .07765     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .07765     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .97143     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .97143     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  7.1051     (Insuf)    .00000     18.000     15.000    
+Etiquetador Manual.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             136.00    
+Pacote.NumberOut                            120.00    
+Trabalhador.NumberSeized                    9.0000    
+Trabalhador.ScheduledUtilization            .07765    
+Equipamento.NumberSeized                    112.00    
+Equipamento.ScheduledUtilization            .97143    
+System.NumberOut                            120.00    
+
+Iniciando replicação 24 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 24 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               6.2705     (Insuf)    .00165     22.129        112    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        112    
+Pacote.WaitTime                             22.792     (Insuf)    .00000     51.028        112    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        112    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        112    
+Pacote.TotalTime                            29.062     (Insuf)    .73858     60.844        112    
+Etiquetar com Equipamento.Queue.WaitingTim  24.258     (Insuf)    .00000     51.028        107    
+Etiquetador Manual.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  4.7842     (Insuf)    .00000     13.000     5.0000    
+Trabalhador.NumberBusy                      .07644     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .07644     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .90874     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .90874     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  3.7990     (Insuf)    .00000     12.000     4.0000    
+Etiquetador Manual.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             117.00    
+Pacote.NumberOut                            112.00    
+Trabalhador.NumberSeized                    6.0000    
+Trabalhador.ScheduledUtilization            .07644    
+Equipamento.NumberSeized                    107.00    
+Equipamento.ScheduledUtilization            .90874    
+System.NumberOut                            112.00    
+
+Iniciando replicação 25 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 25 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               4.8016     (Insuf)     9.7749E-4 25.203        142    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        142    
+Pacote.WaitTime                             12.691     (Insuf)    .00000     51.447        142    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        142    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        142    
+Pacote.TotalTime                            17.493     (Insuf)    .42574     52.288        142    
+Etiquetar com Equipamento.Queue.WaitingTim  13.309     (Insuf)    .00000     51.447        134    
+Etiquetador Manual.Queue.WaitingTime        1.8718     (Insuf)    .00000     12.993         10    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  3.4608     (Insuf)    .00000     10.000     3.0000    
+Trabalhador.NumberBusy                      .09375     (Insuf)    .00000     1.0000     1.0000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .09375     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberBusy                      .86224     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .86224     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  2.4770     (Insuf)    .00000     9.0000     .00000    
+Etiquetador Manual.Queue.NumberInQueue      .02775     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             145.00    
+Pacote.NumberOut                            142.00    
+Trabalhador.NumberSeized                    10.000    
+Trabalhador.ScheduledUtilization            .09375    
+Equipamento.NumberSeized                    134.00    
+Equipamento.ScheduledUtilization            .86224    
+System.NumberOut                            142.00    
+
+Iniciando replicação 26 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 26 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               6.0072     (Insuf)    .03905     26.739        128    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        128    
+Pacote.WaitTime                             21.851     (Insuf)    .00000     101.83        128    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        128    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        128    
+Pacote.TotalTime                            27.858     (Insuf)    .34158     105.01        128    
+Etiquetar com Equipamento.Queue.WaitingTim  26.285     (Insuf)    .00000     101.83        109    
+Etiquetador Manual.Queue.WaitingTime        .76932     (Insuf)    .00000     10.590         20    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  6.5622     (Insuf)    .00000     22.000     19.000    
+Trabalhador.NumberBusy                      .17019     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .17019     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .91500     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .91500     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  5.4557     (Insuf)    .00000     21.000     18.000    
+Etiquetador Manual.Queue.NumberInQueue      .02137     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             147.00    
+Pacote.NumberOut                            128.00    
+Trabalhador.NumberSeized                    20.000    
+Trabalhador.ScheduledUtilization            .17019    
+Equipamento.NumberSeized                    109.00    
+Equipamento.ScheduledUtilization            .91500    
+System.NumberOut                            128.00    
+
+Iniciando replicação 27 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 27 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.8328     (Insuf)    .10210     41.619        142    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        142    
+Pacote.WaitTime                             43.425     (Insuf)    .00000     86.664        142    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        142    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        142    
+Pacote.TotalTime                            49.258     (Insuf)    .14559     106.18        142    
+Etiquetar com Equipamento.Queue.WaitingTim  48.440     (Insuf)    .00000     86.664        128    
+Etiquetador Manual.Queue.WaitingTime        .67582     (Insuf)    .00000     5.6157         15    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  10.226     (Insuf)    .00000     19.000     13.000    
+Trabalhador.NumberBusy                      .15991     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .15991     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .99899     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .99899     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  9.0539     (Insuf)    .00000     18.000     12.000    
+Etiquetador Manual.Queue.NumberInQueue      .01408     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             155.00    
+Pacote.NumberOut                            142.00    
+Trabalhador.NumberSeized                    15.000    
+Trabalhador.ScheduledUtilization            .15991    
+Equipamento.NumberSeized                    128.00    
+Equipamento.ScheduledUtilization            .99899    
+System.NumberOut                            142.00    
+
+Iniciando replicação 28 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 28 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.0183     (Insuf)    .00220     24.787        143    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        143    
+Pacote.WaitTime                             12.313     (Insuf)    .00000     59.292        143    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        143    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        143    
+Pacote.TotalTime                            17.332     (Insuf)    .01387     62.936        143    
+Etiquetar com Equipamento.Queue.WaitingTim  14.239     (Insuf)    .00000     59.292        125    
+Etiquetador Manual.Queue.WaitingTime        .68970     (Insuf)    .00000     10.851         19    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  3.5875     (Insuf)    .00000     13.000     5.0000    
+Trabalhador.NumberBusy                      .19856     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .19856     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .79821     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .79821     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  2.5725     (Insuf)    .00000     12.000     4.0000    
+Etiquetador Manual.Queue.NumberInQueue      .01820     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             148.00    
+Pacote.NumberOut                            143.00    
+Trabalhador.NumberSeized                    19.000    
+Trabalhador.ScheduledUtilization            .19856    
+Equipamento.NumberSeized                    125.00    
+Equipamento.ScheduledUtilization            .79821    
+System.NumberOut                            143.00    
+
+Iniciando replicação 29 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 29 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.8361     (Insuf)    .06891     37.930        136    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        136    
+Pacote.WaitTime                             41.715     (Insuf)    .00000     97.873        136    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        136    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        136    
+Pacote.TotalTime                            47.551     (Insuf)    .16166     101.78        136    
+Etiquetar com Equipamento.Queue.WaitingTim  45.319     (Insuf)    .00000     97.873        126    
+Etiquetador Manual.Queue.WaitingTime        1.3986     (Insuf)    .00000     15.235         11    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  9.2937     (Insuf)    .00000     19.000     10.000    
+Trabalhador.NumberBusy                      .14665     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .14665     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .95585     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .95585     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  8.1698     (Insuf)    .00000     17.000     9.0000    
+Etiquetador Manual.Queue.NumberInQueue      .02137     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             146.00    
+Pacote.NumberOut                            136.00    
+Trabalhador.NumberSeized                    11.000    
+Trabalhador.ScheduledUtilization            .14665    
+Equipamento.NumberSeized                    126.00    
+Equipamento.ScheduledUtilization            .95585    
+System.NumberOut                            136.00    
+
+Iniciando replicação 30 de 30
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 30 de 30
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 720.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pacote.VATime                               5.2904     (Insuf)    .05472     22.887        128    
+Pacote.NVATime                              .00000     (Insuf)    .00000     .00000        128    
+Pacote.WaitTime                             14.090     (Insuf)    .00000     49.903        128    
+Pacote.TranTime                             .00000     (Insuf)    .00000     .00000        128    
+Pacote.OtherTime                            .00000     (Insuf)    .00000     .00000        128    
+Pacote.TotalTime                            19.381     (Insuf)    .05472     52.352        128    
+Etiquetar com Equipamento.Queue.WaitingTim  15.949     (Insuf)    .00000     49.903        114    
+Etiquetador Manual.Queue.WaitingTime        .49767     (Insuf)    .00000     4.3797         15    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pacote.WIP                                  3.5782     (Insuf)    .00000     11.000     5.0000    
+Trabalhador.NumberBusy                      .13442     (Insuf)    .00000     1.0000     .00000    
+Trabalhador.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Trabalhador.Utilization                     .13442     (Insuf)    .00000     1.0000     .00000    
+Equipamento.NumberBusy                      .80954     (Insuf)    .00000     1.0000     1.0000    
+Equipamento.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Equipamento.Utilization                     .80954     (Insuf)    .00000     1.0000     1.0000    
+Etiquetar com Equipamento.Queue.NumberInQu  2.6239     (Insuf)    .00000     9.0000     4.0000    
+Etiquetador Manual.Queue.NumberInQueue      .01037     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pacote.NumberIn                             133.00    
+Pacote.NumberOut                            128.00    
+Trabalhador.NumberSeized                    15.000    
+Trabalhador.ScheduledUtilization            .13442    
+Equipamento.NumberSeized                    114.00    
+Equipamento.ScheduledUtilization            .80954    
+System.NumberOut                            128.00    
+
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                              Resumo de resultados para 30 Replicações
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:11/11/2023
+
+
+                                             RESULTADOS
+
+Identificador                                 Média    Meia-largura Mínima    Maximo # de Replicações
+___________________________________________________________________________________________________
+
+Pacote.NumberIn                             143.83     4.4178     117.00     175.00     30
+Pacote.NumberOut                            131.96     3.2967     112.00     151.00     30
+Trabalhador.NumberSeized                    13.500     1.2661     6.0000     20.000     30
+Trabalhador.ScheduledUtilization            .11905     .01406     .06533     .19856     30
+Equipamento.NumberSeized                    119.53     3.2545     107.00     141.00     30
+Equipamento.ScheduledUtilization            .91250     .02259     .78657     .99899     30
+System.NumberOut                            131.96     3.2967     112.00     151.00     30
+
+Tempo executando a simulação: 1.47 minutos.
+Simulação completada.

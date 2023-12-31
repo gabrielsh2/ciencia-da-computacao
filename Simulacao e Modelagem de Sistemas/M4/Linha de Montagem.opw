@@ -1,0 +1,10 @@
+[RESOURCES]
+Posto 2
+Posto 1
+[VARIABLES]
+Processo Posto 1.NumberIn
+Processo Posto 1.NumberOut
+Processo Posto 2.NumberIn
+Processo Posto 2.NumberOut
+Chegada de pecas.NumberOut
+Saida do processo.NumberOut

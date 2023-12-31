@@ -1,0 +1,15 @@
+[RESOURCES]
+Esteira
+Aparelho
+Ginásio
+[VARIABLES]
+Esteira Livre?.NumberOut False
+Dispose 1.NumberOut
+Chegada Alunos.NumberOut
+Aquecimento Esteira.NumberOut
+Aquecimento Esteira.NumberIn
+Esteira Livre?.NumberOut True
+Musculacao.NumberOut
+Aquecimento Ginásio.NumberIn
+Musculacao.NumberIn
+Aquecimento Ginásio.NumberOut

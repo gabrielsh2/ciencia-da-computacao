@@ -1,0 +1,2422 @@
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 1 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.2671     (Insuf)    .97998     3.5851          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           1.8964     (Insuf)    .00000     4.4210          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          4.1635     (Insuf)    1.8448     8.0061          4    
+Edicao.Queue.WaitingTime                    2.8016     (Insuf)    .00000     6.4226          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                3.3961     (Insuf)    .00000     5.0000     4.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  2.3961     (Insuf)    .00000     4.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           8.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 2 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 2 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             3.1181     (Insuf)    1.2680     4.3242          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           3.4345     (Insuf)    .00000     6.7563          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          6.5527     (Insuf)    3.7622     8.0244          3    
+Edicao.Queue.WaitingTime                    3.5916     (Insuf)    .00000     6.7563          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                3.0477     (Insuf)    .00000     5.0000     4.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  2.0477     (Insuf)    .00000     4.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 3 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 3 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.0555     (Insuf)    .98493     3.5277          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           1.3519     (Insuf)    .00000     3.6794          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          3.4074     (Insuf)    .98493     5.6552          4    
+Edicao.Queue.WaitingTime                    1.9237     (Insuf)    .00000     4.2111          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.9618     (Insuf)    .00000     3.0000     1.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .96189     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 4 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 4 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             3.0407     (Insuf)    1.1227     4.9756          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           1.7957     (Insuf)    .00000     3.9865          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          4.8365     (Insuf)    4.4245     5.1093          3    
+Edicao.Queue.WaitingTime                    1.8047     (Insuf)    .00000     3.9865          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.7828     (Insuf)    .00000     3.0000     3.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .78284     (Insuf)    .00000     2.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 5 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 5 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.3732     (Insuf)    1.8534     3.6972          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .63248     (Insuf)    .00000     1.7952          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          3.0056     (Insuf)    2.1713     3.7338          4    
+Edicao.Queue.WaitingTime                    1.2479     (Insuf)    .00000     3.7098          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.0138     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.0138     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 6 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 6 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.6409     (Insuf)    1.8790     3.4924          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           1.9683     (Insuf)    .00000     3.0688          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          4.6092     (Insuf)    3.4924     5.6203          3    
+Edicao.Queue.WaitingTime                    2.0299     (Insuf)    .00000     3.0688          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.1239     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.1239     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 7 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 7 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.9672     (Insuf)    1.8384     4.0612          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           2.1218     (Insuf)    .00000     3.9972          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          5.0890     (Insuf)    4.0612     6.9993          3    
+Edicao.Queue.WaitingTime                    2.4837     (Insuf)    .00000     3.9972          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.3572     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.3572     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 8 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 8 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.8201     (Insuf)    1.1664     4.3065          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           1.6735     (Insuf)    .00000     4.4167          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          4.4936     (Insuf)    1.1664     7.4043          3    
+Edicao.Queue.WaitingTime                    2.3143     (Insuf)    .00000     4.4167          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.7223     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.7223     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 9 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 9 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.2268     (Insuf)    .58848     3.2771          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .59763     (Insuf)    .00000     2.3905          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.8244     (Insuf)    .58848     4.9787          4    
+Edicao.Queue.WaitingTime                    .98818     (Insuf)    .00000     2.5503          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.9759     (Insuf)    .00000     5.0000     4.0000    
+Operador.NumberBusy                         .95115     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .95115     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.0247     (Insuf)    .00000     4.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           8.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               .95115    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 10 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 10 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.5217     (Insuf)    2.0324     3.2462          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .57758     (Insuf)    .00000     .98665          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          3.0993     (Insuf)    2.0324     3.9923          3    
+Edicao.Queue.WaitingTime                    1.3557     (Insuf)    .00000     3.6901          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.0428     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.0428     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 11 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 11 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.0105     (Insuf)    1.2319     2.7765          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .65889     (Insuf)    .00000     2.3737          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.6694     (Insuf)    1.2865     4.0748          4    
+Edicao.Queue.WaitingTime                    .57825     (Insuf)    .00000     2.3737          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.2891     (Insuf)    .00000     2.0000     1.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .28913     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 12 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 12 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.0809     (Insuf)    1.1299     3.4559          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .42750     (Insuf)    .00000     1.1232          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.5084     (Insuf)    1.3451     4.0427          4    
+Edicao.Queue.WaitingTime                    .34200     (Insuf)    .00000     1.1232          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.0340     (Insuf)    .00000     2.0000     1.0000    
+Operador.NumberBusy                         .86301     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .86301     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .17100     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               .86301    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 13 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 13 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             3.3139     (Insuf)    2.3188     4.1312          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           1.9553     (Insuf)    .00000     4.9578          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          5.2692     (Insuf)    2.3188     8.4494          3    
+Edicao.Queue.WaitingTime                    3.3228     (Insuf)    .00000     7.4253          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                3.9963     (Insuf)    .00000     6.0000     5.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  2.9963     (Insuf)    .00000     5.0000     4.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           8.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 14 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 14 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.1058     (Insuf)    1.8372     2.3641          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           1.4970     (Insuf)    .00000     2.9456          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          3.6028     (Insuf)    2.3641     5.2224          4    
+Edicao.Queue.WaitingTime                    1.6711     (Insuf)    .00000     2.9456          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.9630     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .96301     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 15 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 15 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9039     (Insuf)    1.2597     2.9764          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .94220     (Insuf)    .00000     2.7813          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.8461     (Insuf)    1.2597     4.2618          4    
+Edicao.Queue.WaitingTime                    1.0796     (Insuf)    .00000     2.7813          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.4582     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         .78351     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .78351     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .67470     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               .78351    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 16 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 16 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.0727     (Insuf)    1.8313     2.2950          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           1.5694     (Insuf)    .00000     2.8337          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          3.6422     (Insuf)    2.2472     4.6650          4    
+Edicao.Queue.WaitingTime                    1.4457     (Insuf)    .00000     2.8337          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.7796     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .77960     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 17 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 17 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.2133     (Insuf)    2.1523     2.2744          2    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Arquivos.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Arquivos.TotalTime                          2.2133     (Insuf)    2.1523     2.2744          2    
+Edicao.Queue.WaitingTime                    .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                .74819     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberBusy                         .74819     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .74819     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           3.0000    
+Arquivos.NumberOut                          2.0000    
+Operador.NumberSeized                       3.0000    
+Operador.ScheduledUtilization               .74819    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 18 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 18 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.4517     (Insuf)    .95089     2.4464          5    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          5    
+Arquivos.WaitTime                           .18252     (Insuf)    .00000     .91262          5    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          5    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          5    
+Arquivos.TotalTime                          1.6342     (Insuf)    .95089     2.4464          5    
+Edicao.Queue.WaitingTime                    .41771     (Insuf)    .00000     1.5936          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.2499     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         .82152     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .82152     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .42846     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          5.0000    
+Operador.NumberSeized                       6.0000    
+Operador.ScheduledUtilization               .82152    
+System.NumberOut                            5.0000    
+
+Iniciando replicação 19 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 19 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.4476     (Insuf)    1.6785     3.3651          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           1.5973     (Insuf)    .00000     2.7236          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          4.0449     (Insuf)    1.6785     6.0888          4    
+Edicao.Queue.WaitingTime                    2.3277     (Insuf)    .00000     5.2493          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.7027     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.7027     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 20 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 20 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.3114     (Insuf)    1.3500     3.0498          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           2.2398     (Insuf)    .00000     5.3403          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          4.5513     (Insuf)    1.3500     7.3915          4    
+Edicao.Queue.WaitingTime                    3.0341     (Insuf)    .00000     6.2112          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                4.1739     (Insuf)    .00000     6.0000     5.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  3.1739     (Insuf)    .00000     5.0000     4.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           9.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 21 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 21 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.9172     (Insuf)    2.6147     3.3438          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .08063     (Insuf)    .00000     .24190          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          2.9978     (Insuf)    2.6147     3.3438          3    
+Edicao.Queue.WaitingTime                    .76696     (Insuf)    .00000     2.8259          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.7039     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         .95301     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .95301     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .75097     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .95301    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 22 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 22 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.2294     (Insuf)    1.9816     2.4133          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          2.2294     (Insuf)    1.9816     2.4133          3    
+Edicao.Queue.WaitingTime                    .42289     (Insuf)    .00000     1.6915          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.3422     (Insuf)    .00000     3.0000     3.0000    
+Operador.NumberBusy                         .91876     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .91876     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .42343     (Insuf)    .00000     2.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .91876    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 23 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 23 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9008     (Insuf)    1.0848     2.6872          5    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          5    
+Arquivos.WaitTime                           1.8560     (Insuf)    .00000     3.8127          5    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          5    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          5    
+Arquivos.TotalTime                          3.7569     (Insuf)    2.3439     5.5381          5    
+Edicao.Queue.WaitingTime                    1.9378     (Insuf)    .00000     3.8127          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.2099     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.2099     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          5.0000    
+Operador.NumberSeized                       6.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            5.0000    
+
+Iniciando replicação 24 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 24 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.6122     (Insuf)    1.1973     4.3170          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .45430     (Insuf)    .00000     1.0002          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          3.0665     (Insuf)    1.5600     5.3173          3    
+Edicao.Queue.WaitingTime                    1.3740     (Insuf)    .00000     4.1332          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.8292     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .82923     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 25 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 25 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9071     (Insuf)    .99590     2.9635          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .72636     (Insuf)    .00000     1.4907          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.6335     (Insuf)    .99590     4.3782          4    
+Edicao.Queue.WaitingTime                    .72636     (Insuf)    .00000     1.4907          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.0534     (Insuf)    .00000     3.0000     .00000    
+Operador.NumberBusy                         .76287     (Insuf)    .00000     1.0000     .00000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .76287     (Insuf)    .00000     1.0000     .00000    
+Edicao.Queue.NumberInQueue                  .29055     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           4.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .76287    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 26 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 26 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             3.1818     (Insuf)    2.1611     3.8219          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .86866     (Insuf)    .00000     2.6059          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          4.0504     (Insuf)    3.5622     4.7671          3    
+Edicao.Queue.WaitingTime                    1.7569     (Insuf)    .00000     4.4217          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.2251     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         .97812     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .97812     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.2470     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .97812    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 27 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 27 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.2091     (Insuf)    1.8248     2.7266          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           2.5840     (Insuf)    .00000     5.0391          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          4.7931     (Insuf)    1.8248     6.9433          4    
+Edicao.Queue.WaitingTime                    3.2058     (Insuf)    .00000     5.6929          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                3.6154     (Insuf)    .00000     5.0000     3.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  2.6154     (Insuf)    .00000     4.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 28 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 28 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9065     (Insuf)    .95207     2.5927          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .94689     (Insuf)    .00000     1.9413          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.8534     (Insuf)    2.2439     3.6453          4    
+Edicao.Queue.WaitingTime                    .88644     (Insuf)    .00000     1.9413          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.4432     (Insuf)    .00000     3.0000     1.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .44322     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 29 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 29 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.3565     (Insuf)    1.6434     2.7081          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           2.6646     (Insuf)    .00000     4.6886          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          5.0212     (Insuf)    2.7081     7.3070          4    
+Edicao.Queue.WaitingTime                    2.7611     (Insuf)    .00000     4.6886          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                3.1424     (Insuf)    .00000     5.0000     4.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  2.1424     (Insuf)    .00000     4.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           8.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 30 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 30 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.3773     (Insuf)    .74896     2.1287          5    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          5    
+Arquivos.WaitTime                           .90081     (Insuf)    .00000     2.1508          5    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          5    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          5    
+Arquivos.TotalTime                          2.2781     (Insuf)    .74896     4.2795          5    
+Edicao.Queue.WaitingTime                    1.2034     (Insuf)    .00000     2.7167          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.8220     (Insuf)    .00000     4.0000     4.0000    
+Operador.NumberBusy                         .73001     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .73001     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.0920     (Insuf)    .00000     3.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           9.0000    
+Arquivos.NumberOut                          5.0000    
+Operador.NumberSeized                       6.0000    
+Operador.ScheduledUtilization               .73001    
+System.NumberOut                            5.0000    
+
+Iniciando replicação 31 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 31 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.3179     (Insuf)    1.8649     2.8437          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .67512     (Insuf)    .00000     1.1797          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          2.9930     (Insuf)    2.2451     3.6893          3    
+Edicao.Queue.WaitingTime                    .50634     (Insuf)    .00000     1.1797          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.1960     (Insuf)    .00000     2.0000     2.0000    
+Operador.NumberBusy                         .89270     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .89270     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .30337     (Insuf)    .00000     1.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .89270    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 32 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 32 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.6088     (Insuf)    1.4687     3.7490          2    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Arquivos.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Arquivos.TotalTime                          2.6088     (Insuf)    1.4687     3.7490          2    
+Edicao.Queue.WaitingTime                    .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                .70500     (Insuf)    .00000     4.0000     4.0000    
+Operador.NumberBusy                         .61923     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .61923     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .08577     (Insuf)    .00000     3.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          2.0000    
+Operador.NumberSeized                       3.0000    
+Operador.ScheduledUtilization               .61923    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 33 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 33 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9826     (Insuf)    .88847     2.5553          5    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          5    
+Arquivos.WaitTime                           2.7749     (Insuf)    .00000     4.8475          5    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          5    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          5    
+Arquivos.TotalTime                          4.7575     (Insuf)    2.1449     7.4028          5    
+Edicao.Queue.WaitingTime                    3.3760     (Insuf)    .00000     6.3814          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                3.6660     (Insuf)    .00000     6.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  2.6660     (Insuf)    .00000     5.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          5.0000    
+Operador.NumberSeized                       6.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            5.0000    
+
+Iniciando replicação 34 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 34 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9727     (Insuf)    1.0020     3.2041          5    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          5    
+Arquivos.WaitTime                           1.8754     (Insuf)    .00000     3.5028          5    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          5    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          5    
+Arquivos.TotalTime                          3.8481     (Insuf)    1.0020     6.7069          5    
+Edicao.Queue.WaitingTime                    1.7225     (Insuf)    .00000     3.5028          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.0406     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.0406     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          5.0000    
+Operador.NumberSeized                       6.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            5.0000    
+
+Iniciando replicação 35 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 35 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.8870     (Insuf)    1.0849     2.9916          5    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          5    
+Arquivos.WaitTime                           2.1955     (Insuf)    .00000     3.8948          5    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          5    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          5    
+Arquivos.TotalTime                          4.0826     (Insuf)    1.7154     5.4013          5    
+Edicao.Queue.WaitingTime                    2.6322     (Insuf)    .00000     4.8158          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.9582     (Insuf)    .00000     5.0000     4.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.9582     (Insuf)    .00000     4.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           9.0000    
+Arquivos.NumberOut                          5.0000    
+Operador.NumberSeized                       6.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            5.0000    
+
+Iniciando replicação 36 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 36 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.0491     (Insuf)    1.0423     3.1395          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           1.1788     (Insuf)    .00000     2.8891          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          3.2279     (Insuf)    1.3909     5.5129          4    
+Edicao.Queue.WaitingTime                    1.8538     (Insuf)    .00000     4.5542          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.5695     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.5695     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 37 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 37 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             3.2669     (Insuf)    2.8070     3.5887          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           2.5451     (Insuf)    .00000     5.1588          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          5.8120     (Insuf)    3.4049     8.7476          3    
+Edicao.Queue.WaitingTime                    3.8977     (Insuf)    .00000     7.9554          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                6.0440     (Insuf)    .00000     9.0000     8.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  5.0440     (Insuf)    .00000     8.0000     7.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           11.000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 38 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 38 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.5332     (Insuf)    1.1778     4.0872          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           1.7261     (Insuf)    .00000     4.4248          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          4.2594     (Insuf)    1.1778     6.7594          3    
+Edicao.Queue.WaitingTime                    2.6824     (Insuf)    .00000     5.5512          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                6.3083     (Insuf)    .00000     10.000     10.000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  5.3083     (Insuf)    .00000     9.0000     9.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           13.000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 39 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 39 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.4660     (Insuf)    1.6344     3.4442          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           1.1350     (Insuf)    .00000     3.4051          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          3.6011     (Insuf)    1.6344     5.7246          3    
+Edicao.Queue.WaitingTime                    1.9214     (Insuf)    .00000     4.2807          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.5133     (Insuf)    .00000     3.0000     1.0000    
+Operador.NumberBusy                         .74477     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .74477     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .76859     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           4.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .74477    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 40 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 40 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9436     (Insuf)    1.0328     2.6797          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .37646     (Insuf)    .00000     .98550          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.3201     (Insuf)    1.4605     3.2001          4    
+Edicao.Queue.WaitingTime                    .65054     (Insuf)    .00000     1.7468          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.4275     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         .95075     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .95075     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .47684     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               .95075    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 41 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 41 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.4915     (Insuf)    2.0257     2.8336          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .13300     (Insuf)    .00000     .39900          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          2.6245     (Insuf)    2.4247     2.8336          3    
+Edicao.Queue.WaitingTime                    .09975     (Insuf)    .00000     .39900          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.0750     (Insuf)    .00000     2.0000     2.0000    
+Operador.NumberBusy                         .91533     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .91533     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .15974     (Insuf)    .00000     1.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .91533    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 42 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 42 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.7736     (Insuf)    .86431     3.3786          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .38608     (Insuf)    .00000     1.5443          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.1597     (Insuf)    .86431     3.3786          4    
+Edicao.Queue.WaitingTime                    .64813     (Insuf)    .00000     1.6963          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.1377     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         .74162     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .74162     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .39611     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               .74162    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 43 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 43 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9036     (Insuf)    1.4310     2.7643          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .65306     (Insuf)    .00000     1.6273          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.5567     (Insuf)    1.7859     4.3917          4    
+Edicao.Queue.WaitingTime                    .65848     (Insuf)    .00000     1.6273          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.0602     (Insuf)    .00000     5.0000     5.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.0602     (Insuf)    .00000     4.0000     4.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           9.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 44 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 44 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             3.1399     (Insuf)    2.5768     3.9088          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           2.7536     (Insuf)    .00000     5.3678          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          5.8936     (Insuf)    2.9341     7.9447          3    
+Edicao.Queue.WaitingTime                    3.5630     (Insuf)    .00000     5.9911          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                3.6572     (Insuf)    .00000     5.0000     4.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  2.6572     (Insuf)    .00000     4.0000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 45 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 45 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.5488     (Insuf)    .94283     2.0903          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .37934     (Insuf)    .00000     1.1506          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          1.9282     (Insuf)    1.6079     2.0934          4    
+Edicao.Queue.WaitingTime                    .37934     (Insuf)    .00000     1.1506          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                .77128     (Insuf)    .00000     2.0000     .00000    
+Operador.NumberBusy                         .61954     (Insuf)    .00000     1.0000     .00000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .61954     (Insuf)    .00000     1.0000     .00000    
+Edicao.Queue.NumberInQueue                  .15174     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           4.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .61954    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 46 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 46 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.8304     (Insuf)    1.2333     2.4275          2    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Arquivos.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Arquivos.TotalTime                          1.8304     (Insuf)    1.2333     2.4275          2    
+Edicao.Queue.WaitingTime                    .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                .87442     (Insuf)    .00000     3.0000     3.0000    
+Operador.NumberBusy                         .60847     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .60847     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .26595     (Insuf)    .00000     2.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          2.0000    
+Operador.NumberSeized                       3.0000    
+Operador.ScheduledUtilization               .60847    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 47 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 47 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.4227     (Insuf)    1.7327     3.4180          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           1.5700     (Insuf)    .00000     2.5176          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          3.9928     (Insuf)    3.2805     4.9299          4    
+Edicao.Queue.WaitingTime                    1.8256     (Insuf)    .00000     2.8479          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.0234     (Insuf)    .00000     3.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.0234     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            4.0000    
+
+Iniciando replicação 48 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 48 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.9416     (Insuf)    1.7402     4.0075          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           1.8988     (Insuf)    .00000     2.8578          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          4.8404     (Insuf)    4.0075     5.9348          3    
+Edicao.Queue.WaitingTime                    2.7747     (Insuf)    .00000     5.4025          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                2.6337     (Insuf)    .00000     4.0000     2.0000    
+Operador.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  1.6337     (Insuf)    .00000     3.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           5.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               1.0000    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 49 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 49 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             1.9542     (Insuf)    1.3691     2.2597          3    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Arquivos.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Arquivos.TotalTime                          1.9542     (Insuf)    1.3691     2.2597          3    
+Edicao.Queue.WaitingTime                    .38073     (Insuf)    .00000     1.5229          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.3725     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         .77414     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .77414     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .59842     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           6.0000    
+Arquivos.NumberOut                          3.0000    
+Operador.NumberSeized                       4.0000    
+Operador.ScheduledUtilization               .77414    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 50 de 50
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 50 de 50
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Arquivos.VATime                             2.0416     (Insuf)    1.1407     3.1367          4    
+Arquivos.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Arquivos.WaitTime                           .74103     (Insuf)    .00000     2.0744          4    
+Arquivos.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Arquivos.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Arquivos.TotalTime                          2.7827     (Insuf)    1.1407     4.0264          4    
+Edicao.Queue.WaitingTime                    .78484     (Insuf)    .00000     2.0744          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Arquivos.WIP                                1.7415     (Insuf)    .00000     4.0000     3.0000    
+Operador.NumberBusy                         .94228     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .94228     (Insuf)    .00000     1.0000     1.0000    
+Edicao.Queue.NumberInQueue                  .79925     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Arquivos.NumberIn                           7.0000    
+Arquivos.NumberOut                          4.0000    
+Operador.NumberSeized                       5.0000    
+Operador.ScheduledUtilization               .94228    
+System.NumberOut                            4.0000    
+
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                              Resumo de resultados para 50 Replicações
+
+Projeto: Unnamed Project                                             Data da execução :12/ 2/2023
+Analista: gabriel.hoffmann                                            Data de revisão do modelo:12/ 2/2023
+
+
+                                             RESULTADOS
+
+Identificador                                 Média    Meia-largura Mínima    Maximo # de Replicações
+___________________________________________________________________________________________________
+
+Arquivos.NumberIn                           6.4800     .51375     3.0000     13.000     50
+Arquivos.NumberOut                          3.6200     .22271     2.0000     5.0000     50
+Operador.NumberSeized                       4.5800     .22420     3.0000     6.0000     50
+Operador.ScheduledUtilization               .92638     .03368     .60847     1.0000     50
+System.NumberOut                            3.6200     .22271     2.0000     5.0000     50
+
+Tempo executando a simulação: 0.23 minutos.
+Simulação completada.

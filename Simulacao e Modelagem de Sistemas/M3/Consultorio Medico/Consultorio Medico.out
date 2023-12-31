@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :11/ 5/2023
+Analista: adminlocal                                                  Data de revisão do modelo:11/ 5/2023
+
+Replicação terminada no tempo de      : 24.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Paciente.VATime                             .25000     (Insuf)    .25000     .25000        189    
+Paciente.NVATime                            .00000     (Insuf)    .00000     .00000        189    
+Paciente.WaitTime                           1.0381     (Insuf)    .00000     2.6320        189    
+Paciente.TranTime                           .00000     (Insuf)    .00000     .00000        189    
+Paciente.OtherTime                          .00000     (Insuf)    .00000     .00000        189    
+Paciente.TotalTime                          1.2881     (Insuf)    .25000     2.8820        189    
+Processo atendimento medico.Queue.WaitingT  1.0474     (Insuf)    .00000     2.6320        191    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Paciente.WIP                                11.268     (Corr)     .00000     26.000     25.000    
+Medico.NumberBusy                           1.9790     (Insuf)    .00000     2.0000     2.0000    
+Medico.NumberScheduled                      2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Medico.Utilization                          .98952     (Insuf)    .00000     1.0000     1.0000    
+Processo atendimento medico.Queue.NumberIn  9.2893     (Corr)     .00000     24.000     23.000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Paciente.NumberIn                           214.00    
+Paciente.NumberOut                          189.00    
+Medico.NumberSeized                         191.00    
+Medico.ScheduledUtilization                 .98952    
+System.NumberOut                            189.00    
+
+
+Tempo executando a simulação: 0.07 minutos.
+Simulação completada.

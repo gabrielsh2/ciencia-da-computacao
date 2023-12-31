@@ -1,0 +1,61 @@
+Controlador de execução do SIMAN.
+
+36.777444 Horas>Controlador de execução do SIMAN.
+
+49.846328 Horas>
+                                      ARENA Simulation Results
+                                 gabriel.hoffmann - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :11/11/2023
+Analista: adminlocal                                                  Data de revisão do modelo:11/11/2023
+
+Replicação terminada no tempo de      : 50.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Peca.VATime                                 .10267      9.7290E-4 .06851     .14353        948    
+Peca.NVATime                                .00000     .00000     .00000     .00000        948    
+Peca.WaitTime                               1.5420     (Corr)     .00000     3.1232        948    
+Peca.TranTime                               .00000     .00000     .00000     .00000        948    
+Peca.OtherTime                              .00000     .00000     .00000     .00000        948    
+Peca.TotalTime                              1.6446     (Corr)     .08106     3.2191        948    
+Processo Posto 2.Queue.WaitingTime          1.1769     (Corr)     .00000     2.4817        949    
+Processo Posto 1.Queue.WaitingTime          .38139     (Corr)     .00000     .75568        997    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Peca.WIP                                    33.224     (Corr)     .00000     66.000     65.000    
+Posto 2.NumberBusy                          .99812     (Insuf)    .00000     1.0000     1.0000    
+Posto 2.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Posto 2.Utilization                         .99812     (Insuf)    .00000     1.0000     1.0000    
+Posto 1.NumberBusy                          .99929     (Insuf)    .00000     1.0000     1.0000    
+Posto 1.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Posto 1.Utilization                         .99929     (Insuf)    .00000     1.0000     1.0000    
+Processo Posto 2.Queue.NumberInQueue        23.502     (Corr)     .00000     50.000     47.000    
+Processo Posto 1.Queue.NumberInQueue        7.7243     (Corr)     .00000     16.000     16.000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Peca.NumberIn                               1013.0    
+Peca.NumberOut                              948.00    
+Posto 2.NumberSeized                        949.00    
+Posto 2.ScheduledUtilization                .99812    
+Posto 1.NumberSeized                        997.00    
+Posto 1.ScheduledUtilization                .99929    
+System.NumberOut                            948.00    
+
+
+Tempo executando a simulação: 1.87 minutos.
+Simulação completada.

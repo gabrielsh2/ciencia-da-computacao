@@ -1,0 +1,13 @@
+[RESOURCES]
+Operador
+[VARIABLES]
+Libera Operador.NumberOut
+Checar Erros.NumberIn
+Libera Operador.NumberIn
+Tempo maior que 40 min?.NumberOut True
+Tempo maior que 40 min?.NumberOut False
+Recebe Arquivos.NumberOut
+Edicao.NumberOut
+Edicao.NumberIn
+Dispose 1.NumberOut
+Checar Erros.NumberOut

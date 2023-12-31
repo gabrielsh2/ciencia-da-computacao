@@ -1,0 +1,7 @@
+[RESOURCES]
+Medico
+[VARIABLES]
+Processo atendimento medico.NumberIn
+Processo atendimento medico.NumberOut
+Dispose 1.NumberOut
+Chegada Pacientes.NumberOut

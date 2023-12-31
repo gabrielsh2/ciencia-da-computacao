@@ -1,0 +1,432 @@
+[
+    {
+        "id": "0a378525189bfe60",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3242cc66f1ce83e9",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.hivemq.com",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "f280a0a372fe3882",
+        "type": "ui_group",
+        "d": true,
+        "name": "Temperature",
+        "tab": "",
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0694921ebdbdf9d2",
+        "type": "ui_group",
+        "d": true,
+        "name": "Humidity",
+        "tab": "",
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "780c5a8715b79c9e",
+        "type": "ui_group",
+        "d": true,
+        "name": "Led",
+        "tab": "",
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b76e8545a4c7912d",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "80e8592f5e7d015f",
+        "type": "ui_tab",
+        "name": "Dashboard",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "51514604f398645d",
+        "type": "ui_group",
+        "name": "Pressão",
+        "tab": "80e8592f5e7d015f",
+        "order": 3,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b9e9d4e5.ae6e6",
+        "type": "mqtt-broker",
+        "name": "Broker MQTT",
+        "broker": "mqtt.eclipse.org",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "3fc60c88.2daa5",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "b1f75f84.9d0bf8",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "b1f75f84.9d0bf8",
+        "type": "ui_tab",
+        "name": "Tab 1",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "89749fb7.87f01",
+        "type": "ui_group",
+        "name": "Charts",
+        "tab": "d7901f40.2659d",
+        "order": 2,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "ab397e95.29ebe",
+        "type": "ui_group",
+        "name": "Inputs",
+        "tab": "d7901f40.2659d",
+        "order": 1,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "4e7edda4.417004",
+        "type": "ui_group",
+        "name": "Group 3",
+        "tab": "d7901f40.2659d",
+        "order": 3,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "d7901f40.2659d",
+        "type": "ui_tab",
+        "name": "Charts",
+        "icon": "dashboard",
+        "order": 2
+    },
+    {
+        "id": "8682490eeedefd6a",
+        "type": "mqtt in",
+        "z": "0a378525189bfe60",
+        "name": "",
+        "topic": "medicao_pressao",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "3242cc66f1ce83e9",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 330,
+        "y": 200,
+        "wires": [
+            [
+                "f4b284b209be1754"
+            ]
+        ]
+    },
+    {
+        "id": "f4b284b209be1754",
+        "type": "file",
+        "z": "0a378525189bfe60",
+        "name": "Escreve Arquivo",
+        "filename": "C:/Users/gabriel.hoffmann/workspace/unisinos/Internet das Coisas/M6 - Vivencial/teste-pressao.txt",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 560,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "62b55578f8097b2c",
+        "type": "file in",
+        "z": "0a378525189bfe60",
+        "name": "Ler Arquivo",
+        "filename": "C:/Users/gabriel.hoffmann/workspace/unisinos/Internet das Coisas/M6 - Vivencial/teste-pressao.txt",
+        "filenameType": "str",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": true,
+        "x": 550,
+        "y": 120,
+        "wires": [
+            [
+                "2ed7cb35d0c51253"
+            ]
+        ]
+    },
+    {
+        "id": "3c5f2857c5371666",
+        "type": "watch",
+        "z": "0a378525189bfe60",
+        "name": "Verificar Arquivo",
+        "files": "C:\\\\Users\\\\gabriel.hoffmann\\\\workspace\\\\unisinos\\\\Internet das Coisas\\\\M6 - Vivencial\\\\teste-pressao.txt",
+        "recursive": "",
+        "x": 320,
+        "y": 120,
+        "wires": [
+            [
+                "62b55578f8097b2c"
+            ]
+        ]
+    },
+    {
+        "id": "2ed7cb35d0c51253",
+        "type": "function",
+        "z": "0a378525189bfe60",
+        "name": "Mapear Gráfico",
+        "func": "const messageList = msg.payload.split('\\n')\nmessageList.pop()\n\nconst chart = [{\n    series: ['Pressão'],\n    data: [messageList.map((value, index) => ({ x: index, y: value }))],\n    labels:[\"\"]\n}]\n\nmsg.payload = chart\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 120,
+        "wires": [
+            [
+                "9669a32271807723"
+            ]
+        ]
+    },
+    {
+        "id": "9669a32271807723",
+        "type": "ui_chart",
+        "z": "0a378525189bfe60",
+        "name": "Pressão Média por Teste de Conforto",
+        "group": "51514604f398645d",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Pressão Média por Teste de Conforto",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": ".",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": true,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 905,
+        "y": 120,
+        "wires": [
+            []
+        ],
+        "l": false
+    },
+    {
+        "id": "7669dc2677f42f29",
+        "type": "inject",
+        "z": "0a378525189bfe60",
+        "name": "Init",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 290,
+        "y": 60,
+        "wires": [
+            [
+                "62b55578f8097b2c"
+            ]
+        ]
+    }
+]
